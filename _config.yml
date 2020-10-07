@@ -1,2 +1,9 @@
 # theme: jekyll-rtd-theme
 remote_theme: rundocs/jekyll-rtd-theme
+
+title: 测试标题abc123
+description: 测试描述abc123！@#**¥（¥
+
+# 开启自定义排序
+readme_index:
+  with_frontmatter: true
